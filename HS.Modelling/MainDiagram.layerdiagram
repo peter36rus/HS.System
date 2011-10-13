@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="2d521e92-ab2d-4f55-8e18-4bae4c437e4a" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="70a96413-e038-4290-ad31-82685f7d4b9e" name="UI Layer" />
+    <layer Id="37d8cea8-e5d1-4b6a-b559-0e03281b93e4" name="Services Layer" />
+    <layer Id="6220b032-8d61-4bbd-bb30-63d11afa9eef" name="Logic Layer" />
+    <layer Id="a111dc53-4981-4e19-bc0c-e4e2960f6f58" name="Storage Layer" />
+  </layers>
+</layerModel>
